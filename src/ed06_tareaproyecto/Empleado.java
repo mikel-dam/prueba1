@@ -104,5 +104,6 @@ public class Empleado {
         if(getNumHijos()>=3)
             total+=getNumHijos()*50;
         return total;
+        
     }
 }
